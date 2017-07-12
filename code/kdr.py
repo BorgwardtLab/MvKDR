@@ -10,8 +10,6 @@ import numpy.matlib as matlib
 from scipy import linalg
 from scipy import optimize
 
-import IPython as ip
-
 from utility import rbf, centering
 
 MAX_LOOP = 50
