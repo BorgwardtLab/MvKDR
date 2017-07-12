@@ -2,7 +2,6 @@ import numpy as np
 import numpy.matlib as matlib
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import normalize
-import IPython as ip
 
 from utility import laplace, eigh, centering
 from kdr import kdr
