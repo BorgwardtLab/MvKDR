@@ -1,6 +1,5 @@
 import numpy as np
 import scipy.io as sio
-import IPython as ip
 
 for i in range(1, 4):
     results = sio.loadmat('../results/mvkdr/simu/simu%s.mat' % i)
