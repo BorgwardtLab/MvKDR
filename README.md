@@ -2,7 +2,7 @@
 This repository contains Python implementations of the algorithm MvKDR described in "Multi-view Spectral Clustering on Conflicting Views", which is appearing in ECML/PKDD 2017, SKOPJE, MACEDONIA 
 
 ## Dependencies
-**Python 2.7**, modern versions of **numpy**, **scipy**, **scikit-learn**. All of them available via **pip**.
+**Python 2.7**, modern versions of **numpy**, **scipy**, **pandas**, **scikit-learn**. All of them available via **pip**.
 
 ## Usage
 The implementation of MvKDR is in code/mvkdr.py (currently only two views are supported)
