@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import IPython as ip
 
 from sklearn.preprocessing import scale, LabelEncoder, Imputer
 
