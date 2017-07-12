@@ -30,14 +30,5 @@ Output:
     km_label:  a vector of size n for clustering label produced by k-means
     
     km_obj: a float of k-means objective value
-    
-## Reproduce the experiments
-
-    bash run_mvkdr_simu.sh
-    
-    bash run_mvkdr_uci.sh
-    
-    bash run_mvkdr_webkb.sh
-    
-    python print_results.py
+   
 
