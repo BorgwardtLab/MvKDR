@@ -23,7 +23,7 @@ input:
     
     lambda2:  a float indictes the regularization parameter of disagreement between alternative subspace projection
     
-    seed:   an integer indicates the seed to initialization
+    seed:   an integer indicates the seed for initialization
 
 Output:
 
