@@ -29,7 +29,7 @@ Output:
 
     km_label:  a vector of size n for clustering label produced by k-means
     
-    km_obj: 
+    km_obj: a float of k-means objective value
     
 ## Reproduce the experiments
 
