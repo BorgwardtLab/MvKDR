@@ -31,4 +31,6 @@ Output:
     
     km_obj: a float of k-means objective value
    
-
+## Contact
+Any questions can be directed to:
+   * Xiao He: xiao.he [at] bsse.ethz.ch
